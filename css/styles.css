@@ -46,3 +46,6 @@ body {
     filter: brightness(.9);
 }
 
+#clickCount {
+    transform: scale(1.02);
+}   -webkit0-transition: 0.5s background ease;
